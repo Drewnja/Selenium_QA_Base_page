@@ -1,2 +1,2 @@
-# Selenium_QA_Base_page
-Rep for review on stepik.org
+# stepik.org_auto_test_base_page
+Часть 3. Финальное задание. Здесь находится финальное задание для курса на платформе stepik.org по курсу "Автоматизация тестирования с помощью Python и Selenium.
